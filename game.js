@@ -34,7 +34,6 @@ if( yazilanYer.value === random){
     attention.textContent = "Yanlış cevap. Tahmininz sayıdan küçük. sayı: " + random
     
    }
-
   yazilanYer.focus()
 })
 
